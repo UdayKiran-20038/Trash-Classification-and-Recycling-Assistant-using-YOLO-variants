@@ -7,7 +7,7 @@ This project aims to develop a Trash Classification and Recycling Assistant usin
 Real-time Object Detection: Utilizes YOLO variants (YOLOv3, YOLOv4, YOLOv5, YOLOv7 etc.) for real-time trash detection.
 Multi-class Classification: Classifies waste into multiple categories such as plastic, metal, paper, glass, and cardboard etc.
 Recycling Guidance: Provides information on how to properly recycle or dispose of detected waste items.
-User-Friendly Interface: Easy-to-use interface for capturing images and receiving classification results.
+User-Friendly Interface: Easy-to-use interface for uploading image and receiving classification result.
 
 ## Dataset:
 The project uses a custom dataset consisting of images of various types of trash. The dataset is annotated with bounding boxes and labels for different categories of waste. The dataset can be expanded and improved by collecting more images and annotations.
@@ -27,6 +27,6 @@ python evaluate.py --config configs/yolov5.yaml  # Replace with your configurati
 The results of the trained models, including accuracy, precision, recall, and example detections, will be documented here. Comparative analysis of different YOLO variants can also be included.
 
 ## License:
-[MIT] This project is licensed under the MIT License. See the LICENSE file for more details.
+[MIT](https://choosealicense.com/licenses/mit/) This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
