@@ -26,10 +26,7 @@ python evaluate.py --config configs/yolov5.yaml  # Replace with your configurati
 ## Results:
 The results of the trained models, including accuracy, precision, recall, and example detections, will be documented here. Comparative analysis of different YOLO variants can also be included.
 
-## Contributing:
-Contributions are welcome! Please read the CONTRIBUTING.md for guidelines on how to contribute to this project.
-
 ## License:
-This project is licensed under the MIT License. See the LICENSE file for more details.
+[MIT] This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
